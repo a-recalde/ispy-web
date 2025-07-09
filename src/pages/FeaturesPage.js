@@ -180,7 +180,6 @@ const FeaturesPage = () => {
               <FeatureList>
                 <li>Create game rooms to play with others</li>
                 <li>Real-time gameplay</li>
-                <li>Scorekeeping and leaderboards</li>
                 <li>Perfect for parties and gatherings</li>
               </FeatureList>
             </FeatureContent>
