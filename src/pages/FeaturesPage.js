@@ -196,7 +196,7 @@ const FeaturesPage = () => {
           <CTAText>
             Download the app now and start playing with friends and family. It's free to try!
           </CTAText>
-          <Button as="a" href="https://apps.apple.com/app/ispy-ai" target="_blank" rel="noopener noreferrer" primary large>
+          <Button as="a" href="https://apps.apple.com/app/id6748366695" target="_blank" rel="noopener noreferrer" primary large>
             <AppleLogo /> Download Now
           </Button>
         </SectionContent>

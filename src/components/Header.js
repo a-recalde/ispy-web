@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
+import AppIcon from '../assets/images/app-icon';
 
 const HeaderContainer = styled.header`
   background-color: ${props => props.theme.colors.white};
@@ -78,7 +79,7 @@ const Header = () => {
     <HeaderContainer>
       <Nav>
         <Logo to="/">
-          iSpy<span>-AI</span>
+          <AppIcon />
         </Logo>
         
         <NavLinks>

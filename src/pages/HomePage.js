@@ -180,7 +180,7 @@ const HomePage = () => {
               advanced object recognition and fun gameplay.
             </HeroSubtitle>
             <ButtonGroup>
-              <Button as="a" href="https://apps.apple.com/app/ispy-ai" target="_blank" rel="noopener noreferrer" primary large>
+              <Button as="a" href="https://apps.apple.com/app/id6748366695" target="_blank" rel="noopener noreferrer" primary large>
                 <AppleLogo /> Download Now
               </Button>
               <Button as={Link} to="/features" outline large>
@@ -229,7 +229,7 @@ const HomePage = () => {
           <CTAText>
             Download iSpy-AI today and start playing the classic game with a modern twist!
           </CTAText>
-          <Button as="a" href="https://apps.apple.com/app/ispy-ai" target="_blank" rel="noopener noreferrer" primary large>
+          <Button as="a" href="https://apps.apple.com/app/id6748366695" target="_blank" rel="noopener noreferrer" primary large>
             <AppleLogo /> Download Now
           </Button>
         </SectionContent>
